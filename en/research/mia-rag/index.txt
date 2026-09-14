@@ -7,16 +7,203 @@
 c:I[4911,[],"AsyncMetadataOutlet"]
 e:I[9665,[],"ViewportBoundary"]
 10:I[6614,[],""]
-:HL["/_next/static/css/b9c6c576bef2cc5b.css","style"]
-0:{"P":null,"b":"2k3CeY5QFYxYjAhWYSWOS","p":"","c":["","en","research","mia-rag",""],"i":false,"f":[[["",{"children":[["locale","en","d"],{"children":["research",{"children":[["slug","mia-rag","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b9c6c576bef2cc5b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Ziyan Zhou\",\"alternateName\":\"周紫妍\",\"jobTitle\":\"Ph.D. Candidate in Cybersecurity\",\"affiliation\":{\"@type\":\"Organization\",\"name\":\"Institute of Information Engineering, Chinese Academy of Sciences\"},\"email\":\"mailto:zhouziyan@iie.ac.cn\",\"sameAs\":[\"https://scholar.google.com/citations?user=355JAxIAAAAJ&hl=zh-CN\"]}"}}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"shell section-space","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found"}],["$","p",null,{"children":"The requested static page does not exist."}],["$","$L4",null,{"className":"button","href":"/","children":"Return home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":[["locale","en","d"],["$","$1","c",{"children":[null,"$L5"]}],{"children":["research",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","mia-rag","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",["$","$L7",null,{"children":"$L8"}],null,["$","$L9",null,{"children":["$La","$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},[["$","div","l",{"className":"route-progress","role":"status","children":["$","span",null,{"className":"sr-only","children":"Loading"}]}],[],[]],false]},null,false],["$","$1","h",{"children":[null,["$","$1","nLgtzeQo0GjRe2SltzASm",{"children":[["$","$Le",null,{"children":"$Lf"}],null]}],null]}],false]],"m":"$undefined","G":["$10","$undefined"],"s":false,"S":true}
+:HL["/_next/static/css/d3d0ccf91beb7ceb.css","style"]
+0:{"P":null,"b":"32hfw1NUm1QLRAIfqF4xm","p":"","c":["","en","research","mia-rag",""],"i":false,"f":[[["",{"children":[["locale","en","d"],{"children":["research",{"children":[["slug","mia-rag","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d3d0ccf91beb7ceb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Ziyan Zhou\",\"alternateName\":\"周紫妍\",\"jobTitle\":\"Ph.D. Candidate in Cybersecurity\",\"affiliation\":{\"@type\":\"Organization\",\"name\":\"Institute of Information Engineering, Chinese Academy of Sciences\"},\"email\":\"mailto:zhouziyan@iie.ac.cn\",\"sameAs\":[\"https://scholar.google.com/citations?user=355JAxIAAAAJ&hl=zh-CN\"]}"}}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"shell section-space","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found"}],["$","p",null,{"children":"The requested static page does not exist."}],["$","$L4",null,{"className":"button","href":"/","children":"Return home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":[["locale","en","d"],["$","$1","c",{"children":[null,"$L5"]}],{"children":["research",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","mia-rag","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",["$","$L7",null,{"children":"$L8"}],null,["$","$L9",null,{"children":["$La","$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},[["$","div","l",{"className":"route-progress","role":"status","children":["$","span",null,{"className":"sr-only","children":"Loading"}]}],[],[]],false]},null,false],["$","$1","h",{"children":[null,["$","$1","TgL1jodBch1aMFyJIWpbY",{"children":[["$","$Le",null,{"children":"$Lf"}],null]}],null]}],false]],"m":"$undefined","G":["$10","$undefined"],"s":false,"S":true}
 11:"$Sreact.suspense"
 12:I[4911,[],"AsyncMetadata"]
-14:I[4368,["493","static/chunks/493-b5c5a5f7d64f1147.js","125","static/chunks/125-70bdf05e4decbf3d.js","727","static/chunks/app/%5Blocale%5D/research/page-6426156baa0e7cca.js"],"PreferenceProvider"]
-15:I[6627,["493","static/chunks/493-b5c5a5f7d64f1147.js","125","static/chunks/125-70bdf05e4decbf3d.js","727","static/chunks/app/%5Blocale%5D/research/page-6426156baa0e7cca.js"],"SiteChrome"]
-16:I[1641,["486","static/chunks/486-f1f6c68aff0845c3.js","125","static/chunks/125-70bdf05e4decbf3d.js","857","static/chunks/app/%5Blocale%5D/research/%5Bslug%5D/page-0e40bf3b24b59681.js"],"PublicationDetail"]
+14:I[4368,["493","static/chunks/493-b5c5a5f7d64f1147.js","125","static/chunks/125-5336908a8d2c7215.js","727","static/chunks/app/%5Blocale%5D/research/page-6426156baa0e7cca.js"],"PreferenceProvider"]
+15:I[6627,["493","static/chunks/493-b5c5a5f7d64f1147.js","125","static/chunks/125-5336908a8d2c7215.js","727","static/chunks/app/%5Blocale%5D/research/page-6426156baa0e7cca.js"],"SiteChrome"]
+16:I[5968,["486","static/chunks/486-f1f6c68aff0845c3.js","125","static/chunks/125-5336908a8d2c7215.js","857","static/chunks/app/%5Blocale%5D/research/%5Bslug%5D/page-5e74746d783b2243.js"],"PublicationDetail"]
 8:["$","$11",null,{"fallback":null,"children":["$","$L12",null,{"promise":"$@13"}]}]
 5:["$","$L14",null,{"locale":"en","children":["$","$L15",null,{"locale":"en","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"route-enter","children":["$","$L3",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]
-6:["$","div",null,{"className":"page-content section-space","children":["$","$L16",null,{"publication":{"slug":"mia-rag","title":"Mindscape-Aware Retrieval Augmented Generation for Improved Long Context Understanding","venue":"EMNLP","year":"2026","level":"CCF-B","role":{"zh":"学生二作","en":"Student Second Author"},"summary":{"zh":"以层次化摘要构建全局语义表示，同时指导检索与生成。","en":"Hierarchical summaries construct global semantic representations that guide both retrieval and generation."},"tags":["RAG","Long Context","Hierarchical Summary"],"publishedAt":{"zh":"2026 年","en":"2026"},"pdf":"/assets/research/mia-rag/paper.pdf","overview":"/assets/research/mia-rag/overview.png","citation":"@article{mindscape,\n  title={Mindscape-aware retrieval augmented generation for improved long context understanding},\n  author={Li, Yuqing and Li, Jiangnan and Lin, Zheng and Zhou, Ziyan and Wu, Junjie and Wang, Weiping and Zhou, Jie and Yu, Mo},\n  journal={arXiv preprint arXiv:2512.17220},\n  year={2025}\n}"},"locale":"en","markdown":"## Research question\n\nLong-document RAG commonly relies on local similarity and lacks awareness of a document's global semantics. This work studies how local evidence can be retrieved and interpreted within a coherent global context.\n\n## Method overview\n\nMiA-RAG builds a global semantic representation from hierarchical summaries to guide both retrieval and generation. The retriever produces globally informed query embeddings, while the generator integrates local evidence under coherent context.\n\n![MiA-RAG hierarchical Mindscape retrieval and generation framework](/assets/research/mia-rag/overview.png)\n\n> Detailed findings, the rationale for method choices, and personal reflection are still to be added by the author."}]}]
+17:T39b3,> **Core question:** Existing RAG systems primarily use local, evidence-level signals for retrieval and generation in long documents, without a global semantic understanding of the document. We propose **Mindscape-Aware RAG (MiA-RAG)**: construct a document-level **Mindscape** through hierarchical summarization, then condition both the retriever and generator on this shared representation. This enables retrieval within a global thematic context and integration of scattered information within the same context.
+
+## Overview
+
+When understanding a long text, people form an overall impression of its topic or document and use that global semantic context to interpret new local information. We refer to this as **Mindscape-Aware Capability** and introduce it into RAG. The core pipeline is:
+
+`Long text → Hierarchical summarization → Mindscape S → MiA-Emb retrieval → MiA-Gen generation`
+
+- **Mindscape:** A document-level global semantic representation constructed through bottom-up hierarchical summarization.
+- **MiA-Emb:** Encode `Query + Mindscape` together so the query embedding retains both the retrieval intent and the document's global semantics.
+- **MiA-Gen:** Provide `Mindscape + Retrieved Chunks + Query` to the generator so it interprets and integrates local evidence in the global context.
+
+The framework aims to acquire three capabilities:
+
+1. Use global semantics to fill in missing or ambiguous query information.
+2. Move the query representation closer to the relevant semantic region of the document.
+3. Integrate evidence scattered across chunks within a global semantic context.
+
+![Comparison](/assets/research/mia-rag/comparison.png)
+
+Across five long-context benchmarks, the complete **MiA-RAG-14B** achieves the best average performance, outperforming vanilla-RAG-14B and vanilla-RAG-72B overall. Beyond task metrics, we analyze internal representations and attention. Mindscape shifts query embeddings toward the correct document semantic region; both the retriever and generator attend to query-relevant summary information when selecting and integrating local evidence. These results support the interpretation that the models learn to use global semantics to guide retrieval and reasoning, beyond simply receiving an additional summary.
+
+## Why undertake this work?
+
+### 1. Practical problems in long-context RAG
+
+A common approach to long documents is to split them into chunks, retrieve a few relevant chunks for a query, and generate an answer from them. Standard RAG has a structural limitation:
+
+> **The retriever and generator primarily see local evidence, without an explicit understanding of what the whole document is about.**
+
+A query may depend on the background of an entire book, report, or project, while supporting evidence may be scattered throughout the document. Retrieval based only on query–chunk similarity can therefore cause two problems:
+
+- **Retrieval:** An underspecified or ambiguous query does not tell the retriever which semantic region of the document to search.
+- **Generation:** Even with the correct evidence, the generator may lack the global background needed to understand relationships between evidence fragments.
+
+### 2. Why Mindscape?
+
+The paper draws on insights from psychology and neuroscience: people form holistic semantic representations of familiar topics or extended content. When a topic reappears, this global memory is activated and influences subsequent interpretation, retrieval, and reasoning.
+
+### 3. The key goes beyond adding a summary to RAG
+
+MiA-RAG uses **Mindscape as global background shared by retrieval and generation, and trains both models to actively use it**.
+
+Experiments explicitly examine this distinction. Directly concatenating a summary for a vanilla embedding model can even reduce retrieval performance. Mindscape-aware training enables the model to effectively integrate the query with global context.
+
+## What are the challenges?
+
+The central insight is to introduce human-like global semantic understanding into RAG. Making it work requires addressing the following challenges.
+
+### Challenge 1: How can an abstract Mindscape become a computable representation?
+
+An overall impression of a document is a cognitive concept that cannot be directly fed into a model. We need a compact external representation that preserves global semantics.
+
+MiA-RAG uses **hierarchical summarization**: summarize each chunk, combine these summaries in document order, and produce a document-level summary as Mindscape `S`.
+
+This approach:
+
+- Compresses very long documents.
+- Preserves overall themes, characters, events, and relationships.
+- Allows multiple queries to reuse the same Mindscape.
+- Supports updating only affected paths when the document changes.
+
+### Challenge 2: How can the retriever use global semantics without being distracted by the summary?
+
+Simply passing `query + summary` to a standard embedding model can overwhelm the query's retrieval intent. Adding a summary directly to vanilla Qwen3-Embedding-8B reduces average retrieval performance from **44.70 to 35.56**.
+
+MiA-Emb must therefore preserve local query intent, incorporate global Mindscape semantics, and learn which global information to use and when. The paper addresses this through **Residual Integration + Mindscape-Aware Training**.
+
+### Challenge 3: Long-context datasets lack query–evidence supervision
+
+Datasets such as NarrativeQA usually provide question–answer pairs without annotating the supporting chunks or graph nodes needed for retriever training. We automatically construct **silver evidence** through:
+
+`Query augmentation → Ensemble retrieval → Voting → LLM filtering`
+
+The resulting supervision covers **27,117 questions**, averaging **2.3 silver chunks** and **2.9 silver nodes** per question.
+
+An oracle experiment checks evidence quality: using only 2.3 silver chunks on average achieves **52.91 F1**, exceeding **50.79** with the full book context.
+
+### Challenge 4: Improving only the retriever creates a retriever–generator asymmetry
+
+If the retriever finds better evidence using Mindscape but the generator does not see the same context, the generator may still fail to understand why chunks are relevant, how they relate to each other, or how local evidence fits into the whole document.
+
+We therefore also train **MiA-Gen**, giving retrieval and generation the same global semantic conditioning.
+
+## Core innovations and contributions
+
+> **I contributed to the method, the organization of the paper's logic and refinement of its core contributions, writing improvements, and framework figures. I also participated in the rebuttal and proposed targeted improvements to strengthen the paper's coherence and completeness.** The following describes the paper's overall contributions, methods, and experiments.
+
+### 1. A unified Mindscape-Aware RAG framework
+
+The paper introduces a unified conditioning paradigm for **mindscape-aware retrieval and generation**:
+
+`q, S → C_ret, S → a`
+
+Compared with vanilla RAG:
+
+`q → C_ret → a`
+
+The key change is that **Mindscape S** conditions both retrieval and generation.
+
+### 2. MiA-Emb: Enhancing query representations with global semantics
+
+Whereas context-aware retrieval often enhances chunk representations, MiA-Emb injects global semantics into the **query representation**, directing it toward the relevant semantic region of the document. Residual integration preserves the original query semantics, while multitask contrastive learning trains chunk and node retrieval.
+
+### 3. MiA-Gen: Integrating evidence under the same Mindscape
+
+MiA-Gen takes `Mindscape + Retrieved Chunks + Query` as input. Training on both QA and claim verification teaches the generator to interpret and integrate local evidence within a global semantic context.
+
+### 4. Automatic chunk-level and node-level silver supervision
+
+To address missing evidence annotations in long-context benchmarks, an automated silver evidence construction pipeline produces supervision for both chunk retrieval and node retrieval in MiA-Emb.
+
+## Method
+
+### 1 Overall framework
+
+![MiA-RAG hierarchical summarization, MiA-Emb, and MiA-Gen pipeline](/assets/research/mia-rag/overview.png)
+
+MiA-RAG has three core components:
+
+1. **Hierarchical Mindscape construction**
+2. **MiA-Emb: Mindscape-aware retriever**
+3. **MiA-Gen: Mindscape-aware generator**
+
+## 2 Hierarchical Mindscape construction
+
+Mindscape is constructed through bottom-up hierarchical summarization. First, generate a local summary for each chunk `c_i`; then concatenate the chunk summaries in source order and summarize them globally to obtain the document-level Mindscape.
+
+> Why hierarchical summarization? Summarizing an entire long document in one pass is constrained by context length. Local-to-global summarization progressively compresses the document while retaining its structure. Mindscape is also document-level and query-independent, so it can be precomputed once and reused for subsequent queries.
+
+## 3 Training the Mindscape-aware retriever
+
+### Filling the evidence supervision gap with silver labels
+
+Starting from NarrativeQA query–answer pairs, retrieve candidates using the question, question plus answer, and answer separately. Voting and LLM filtering yield supporting chunks; graph-node evidence is constructed similarly. The resulting dataset contains **27,117 questions**, with an average of 2.3 silver chunks and 2.9 nodes each. These automatically constructed references are silver labels, rather than fully human-verified gold evidence.
+
+### Preserving query meaning while incorporating document Mindscape
+
+Using Qwen3-Embedding-8B, jointly encode instructions, the question, a query delimiter, the summary, and a retrieval-task delimiter. Task tokens distinguish chunk retrieval from node retrieval.
+
+The query representation uses residual integration: **q̃ = δ·h_query + (1−δ)·h_task**. The query-delimiter position preserves local intent, while the task position after the summary provides global information.
+
+Training combines chunk and node retrieval using an InfoNCE contrastive loss with weight β=0.5. Settings are LoRA rank=128, alpha=256, learning rate 1e-4, batch size=4, 2,000 training steps, and temperature 0.01.
+
+## 4 Training the Mindscape-aware generator
+
+A better retriever can find chunks whose interpretation requires global context. Without that context, the generator may not convert retrieval gains into better answers. MiA-Gen therefore receives instructions, the summary, retrieved chunks, and the question, learning to integrate evidence and generate an answer.
+
+Joint training uses **NarrativeQA question answering and CLIPPER claim verification**. For NarrativeQA, silver evidence is mixed with irrelevant chunks; for CLIPPER, actual MiA-Emb retrieval results simulate inference-time noise. Each question has input variants with 3, 5, and 10 chunks to avoid adapting to only one retrieval length.
+
+MiA-Gen **fully fine-tunes** Qwen2.5-14B-Instruct with autoregressive cross-entropy, learning rate 1e-5, batch size=2, and 2,000 steps.
+
+## Experiments
+
+Section 4 and Appendix C report five main evaluation settings: NarrativeQA, ∞Bench-EN.MC, DetectiveQA Chinese, DetectiveQA English, and NoCha.
+
+- **NarrativeQA:** 556 evaluation questions; approximately 83k tokens per document on average; F1, EM, and retrieval Recall.
+- **∞Bench-EN.MC:** 229 questions; approximately 184k tokens on average; multiple-choice accuracy.
+- **DetectiveQA:** 1,200 questions across Chinese and English; approximately 118k tokens on average; accuracy and Recall.
+- **NoCha:** 126 evaluation queries; approximately 139k tokens on average; Pairwise Accuracy.
+
+NarrativeQA evaluates unseen books within the training domain, while the other tasks test cross-domain or cross-language generalization. Baselines include Vanilla-RAG, HippoRAG-v2, MemoRAG, RAPTOR, SitEmb, and variants enhancing only the retriever or generator. Main experiments compare top-3, top-5, and top-10 retrieval budgets.
+
+The main framework uses an **8B retriever and a 14B generator**. The claim that the 14B system outperforms a 72B baseline refers to generator sizes under these experimental settings. The 72B baseline uses 4-bit quantization; this is not a general claim about all 72B models.
+
+## Do retrieval gains translate into task benefits?
+
+### Retrieval results
+
+In Table 3, NarrativeQA Recall@3/5/10 reaches **62.68/75.92/88.09%**, compared with 41.81/54.51/71.13% for the Qwen baseline and 55.62/67.19/83.65% for a similarly trained model without the summary.
+
+DetectiveQA Recall@10 is **72.50%** in Chinese and **69.75%** in English, compared with 55.58% and 49.25% for Qwen. These comparisons support both the value of supervised training and the additional gains from the global summary.
+
+### Cost analysis
+
+On 8×H20 GPUs, MiA-Emb training takes approximately 21 hours and MiA-Gen approximately 28 hours. Using Qwen2.5-7B on 2×A100 40GB GPUs, summary preprocessing takes an average of **24.79 seconds** per book of approximately 118k tokens. The summary can be reused for subsequent queries about that document.
+
+## Mechanism analysis: How summaries affect internal representations
+
+**Selective retrieval:** Embedding geometry analysis shows that queries move closer to their document's semantic subspace. For the book shown in Figure 5, the mean projection angle falls from 43.5° to 37.1°, supporting the interpretation that global context guides retrieval direction.
+
+**Enhanced query understanding:** For 100 questions whose evidence both models retrieve completely, the paper analyzes retrieval capability in layerwise residual streams and attention. MiA-Emb's middle-layer retrieval gains coincide with increased attention to summaries, with examples focusing on relevant characters, events, and locations. These are mechanistic clues; sample selection and correlational analysis limit generalization.
+
+**Evidence integration:** The MCEA metric examines attention associations from the summary and question to relevant chunks. Replacing the correct summary with unrelated text of equal length substantially reduces MiA-Gen's MCEA, supporting its reliance on useful global information for evidence integration. The paper treats MCEA as an attention diagnostic; raw values cannot be used as a universal ranking of different models' capabilities.
+
+## Limitations
+
+Summary construction adds preprocessing cost. Experiments focus mainly on long narrative understanding, so other settings require further validation. Some supervision and summaries come from commercial models and may introduce biases or hallucinations. Incremental summary updates and reuse across queries can reduce costs, but do not eliminate these limitations.6:["$","div",null,{"className":"page-content section-space","children":["$","$L16",null,{"publication":{"slug":"mia-rag","title":"Mindscape-Aware Retrieval Augmented Generation for Improved Long Context Understanding","venue":"EMNLP","year":"2026","level":"CCF-B","role":{"zh":"学生二作","en":"Student Second Author"},"summary":{"zh":"以层次化摘要构建全局语义表示，同时指导检索与生成。","en":"Hierarchical summaries construct global semantic representations that guide both retrieval and generation."},"tags":["RAG","Long Context","Hierarchical Summary"],"publishedAt":{"zh":"2026 年","en":"2026"},"pdf":"/assets/research/mia-rag/paper.pdf","overview":"/assets/research/mia-rag/overview.png","citation":"@article{mindscape,\n  title={Mindscape-aware retrieval augmented generation for improved long context understanding},\n  author={Li, Yuqing and Li, Jiangnan and Lin, Zheng and Zhou, Ziyan and Wu, Junjie and Wang, Weiping and Zhou, Jie and Yu, Mo},\n  journal={arXiv preprint arXiv:2512.17220},\n  year={2025}\n}"},"locale":"en","markdown":"$17"}]}]
 b:null
 f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 a:null
