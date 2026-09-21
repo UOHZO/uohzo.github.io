@@ -8,12 +8,12 @@ c:I[4911,[],"AsyncMetadataOutlet"]
 e:I[9665,[],"ViewportBoundary"]
 10:I[6614,[],""]
 :HL["/_next/static/css/d3d0ccf91beb7ceb.css","style"]
-0:{"P":null,"b":"1TacMbF1oMpIpsBT001C_","p":"","c":["","zh","notes",""],"i":false,"f":[[["",{"children":[["locale","zh","d"],{"children":["notes",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d3d0ccf91beb7ceb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Ziyan Zhou\",\"alternateName\":\"周紫妍\",\"jobTitle\":\"Ph.D. Candidate in Cybersecurity\",\"affiliation\":{\"@type\":\"Organization\",\"name\":\"Institute of Information Engineering, Chinese Academy of Sciences\"},\"email\":\"mailto:zhouziyan@iie.ac.cn\",\"sameAs\":[\"https://scholar.google.com/citations?user=355JAxIAAAAJ&hl=zh-CN\"]}"}}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"shell section-space","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found"}],["$","p",null,{"children":"The requested static page does not exist."}],["$","$L4",null,{"className":"button","href":"/","children":"Return home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":[["locale","zh","d"],["$","$1","c",{"children":[null,"$L5"]}],{"children":["notes",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",["$","$L7",null,{"children":"$L8"}],null,["$","$L9",null,{"children":["$La","$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},[["$","div","l",{"className":"route-progress","role":"status","children":["$","span",null,{"className":"sr-only","children":"Loading"}]}],[],[]],false]},null,false],["$","$1","h",{"children":[null,["$","$1","hNsOMatygOXQnXocJcK0n",{"children":[["$","$Le",null,{"children":"$Lf"}],null]}],null]}],false]],"m":"$undefined","G":["$10","$undefined"],"s":false,"S":true}
+0:{"P":null,"b":"-ccUr0ySee2kkYOSr2RGA","p":"","c":["","zh","notes",""],"i":false,"f":[[["",{"children":[["locale","zh","d"],{"children":["notes",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d3d0ccf91beb7ceb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Ziyan Zhou\",\"alternateName\":\"周紫妍\",\"jobTitle\":\"Ph.D. Candidate in Cybersecurity\",\"affiliation\":{\"@type\":\"Organization\",\"name\":\"Institute of Information Engineering, Chinese Academy of Sciences\"},\"email\":\"mailto:zhouziyan@iie.ac.cn\",\"sameAs\":[\"https://scholar.google.com/citations?user=355JAxIAAAAJ&hl=zh-CN\"]}"}}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"shell section-space","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found"}],["$","p",null,{"children":"The requested static page does not exist."}],["$","$L4",null,{"className":"button","href":"/","children":"Return home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":[["locale","zh","d"],["$","$1","c",{"children":[null,"$L5"]}],{"children":["notes",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",["$","$L7",null,{"children":"$L8"}],null,["$","$L9",null,{"children":["$La","$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},[["$","div","l",{"className":"route-progress","role":"status","children":["$","span",null,{"className":"sr-only","children":"Loading"}]}],[],[]],false]},null,false],["$","$1","h",{"children":[null,["$","$1","1zyDgNuc4BuWdsdeYT_bv",{"children":[["$","$Le",null,{"children":"$Lf"}],null]}],null]}],false]],"m":"$undefined","G":["$10","$undefined"],"s":false,"S":true}
 11:"$Sreact.suspense"
 12:I[4911,[],"AsyncMetadata"]
-14:I[4368,["493","static/chunks/493-b5c5a5f7d64f1147.js","271","static/chunks/app/%5Blocale%5D/notes/page-a3a65a52bbb4b878.js"],"PreferenceProvider"]
-15:I[6627,["493","static/chunks/493-b5c5a5f7d64f1147.js","271","static/chunks/app/%5Blocale%5D/notes/page-a3a65a52bbb4b878.js"],"SiteChrome"]
-16:I[4800,["493","static/chunks/493-b5c5a5f7d64f1147.js","271","static/chunks/app/%5Blocale%5D/notes/page-a3a65a52bbb4b878.js"],"WritingIndex"]
+14:I[4368,["493","static/chunks/493-b5c5a5f7d64f1147.js","271","static/chunks/app/%5Blocale%5D/notes/page-17cf688f983e44b0.js"],"PreferenceProvider"]
+15:I[6627,["493","static/chunks/493-b5c5a5f7d64f1147.js","271","static/chunks/app/%5Blocale%5D/notes/page-17cf688f983e44b0.js"],"SiteChrome"]
+16:I[4800,["493","static/chunks/493-b5c5a5f7d64f1147.js","271","static/chunks/app/%5Blocale%5D/notes/page-17cf688f983e44b0.js"],"WritingIndex"]
 8:["$","$11",null,{"fallback":null,"children":["$","$L12",null,{"promise":"$@13"}]}]
 5:["$","$L14",null,{"locale":"zh","children":["$","$L15",null,{"locale":"zh","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"route-enter","children":["$","$L3",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]
 17:T7688,Hallucination to truth: a review of fact-checking and factuality evaluation in large language models（Artificial Intelligence Review，一区top刊）【系统性地综述了大型语言模型在事实核查与幻觉评估方面的研究进展，详细分析了包括RAG、指令微调及多智能体系统在内的核心技术与挑战。即，现有研究如何判断大模型说得是否真实，又通过哪些方法减少幻觉、提高事实可靠性？】
@@ -557,21 +557,477 @@ RAG 能缓解知识过时和幻觉，但不能保证正确。如果检索到的�
 
 未来重点应从单纯提高最终准确率，转向保证整个事实核查流程都可验证、可解释且能够追溯。
 
-此外，当前大模型主要依靠语言模式完成事实核查，不一定严格遵循逻辑规则。例如，模型可能分别认可两个相互矛盾的声明，或者在面对否定、合取、析取和条件关系时得出不一致结论。可以将大模型与符号推理、知识图谱或逻辑系统结合。例如，将复杂声明转换为原子命题和逻辑关系 (A∧B)→C，然后分别验证 A、B 和 C 的证据，再按照明确的逻辑规则计算整体结论。这样可以避免模型仅凭语言直觉跳到最终答案，也更容易发现具体是哪一个原子事实或逻辑关系发生了错误。但目前神经模型与符号系统的结合仍处于早期阶段，主要困难是如何准确地把自然语言转换成结构化逻辑，以及如何让这种方法扩展到大规模、复杂的真实声明。18:T1485,## 我对 AI 的态度
+此外，当前大模型主要依靠语言模式完成事实核查，不一定严格遵循逻辑规则。例如，模型可能分别认可两个相互矛盾的声明，或者在面对否定、合取、析取和条件关系时得出不一致结论。可以将大模型与符号推理、知识图谱或逻辑系统结合。例如，将复杂声明转换为原子命题和逻辑关系 (A∧B)→C，然后分别验证 A、B 和 C 的证据，再按照明确的逻辑规则计算整体结论。这样可以避免模型仅凭语言直觉跳到最终答案，也更容易发现具体是哪一个原子事实或逻辑关系发生了错误。但目前神经模型与符号系统的结合仍处于早期阶段，主要困难是如何准确地把自然语言转换成结构化逻辑，以及如何让这种方法扩展到大规模、复杂的真实声明。18:T298a,早期的安全研究更多建立在结构化规则之上：访问控制策略、安全配置和验证条件通常具有相对明确的表示，系统可以直接围绕规则执行推理与检查。随着研究逐渐转向数据安全与隐私保护，我遇到的问题开始发生变化。大量安全要求、数据处理实践和风险信号并不存在于结构化规则中，而是分散在法律法规、隐私政策、服务条款、漏洞描述和新闻内容等自然语言中。
 
-我觉得 AI 是一个提升效率的工具，能帮我们减少很多重复性的工作，让我们更 focus 到自己想法的实现和验证上。但与此同时，这反而对人的审美提出了更高的要求。因为当“实现”本身变得容易，真正拉开差距的就是“知不知道什么值得做”，以及“怎样才算做得好”。科研需要有学术品位，做出简洁、有效、优美的工作（这里有一篇聊 *[何恺明和 research taste 的小红书帖子](https://www.xiaohongshu.com/discovery/item/6a840aff0000000005028165?source=webshare&xhsshare=pc_web&xsec_token=ABbEXSdoif03AH48Ju-V4MZL9c0tfCosZlZ_meD72xxdg=&xsec_source=pc_share)*，感兴趣的话可以看看~）。做产品也要有好的审美，才能做出受欢迎的产品。
+这使我的研究重点逐渐转向一个更一般的问题：**如何利用 NLP 与大模型，从复杂文本中提取安全相关信息、建立可计算的语义表示，并进一步完成可验证的安全与隐私判断。**
 
-然而，AI 虽然能帮我们做很多事情，但我认为编程基础和数学基础还是需要有，该掌握的算法也还是要弄懂。只是学习和使用这些知识的方式可以更灵活：可以借助 AI 快速掌握，也可以在需要的时候让 AI 帮我们把这些知识调动起来。
+在这一过程中，我主要关注三个层次的问题：首先是从文本中准确识别安全语义；其次是利用检索、表示学习和结构化建模建立判断依据；最后是控制模型在高风险判断中的不确定性，使结果能够被证据支持，并保留必要的人工审核环节。
 
-另外，能够使用好 AI 本身也是一种能力。我认为在使用 AI 之前，最好先把任务拆清楚，想明白自己到底要解决什么问题，问题边界又在哪里；在使用过程中，也要合理地设计 human-in-the-loop，把人的判断放在重要的节点上。如此一来，AI 才是真的在“从善如流”，而不是前面看起来做得很快，最后再花大量时间去修一堆错误，即“从恶如崩”。
+## 从隐私政策理解开始
+
+2023–2026 年，我在[数据交易全流程监测课题](/zh/projects/data-trading-monitoring)中进一步聚焦隐私保护问题，围绕隐私政策的模糊性、数据最小化以及披露完整性开展研究。
+
+隐私政策是服务提供者对其数据处理行为的公开描述，也是自动化隐私评估中最直接的文本来源之一。但对于模型而言，真正困难的并不是“读到”一段政策，而是从中恢复数据处理行为背后的结构。
+
+一项数据实践往往包含数据类型、处理行为、处理目的、共享对象、适用条件等多个要素，这些信息可能跨句甚至跨段落出现。相同的数据类型在不同上下文中也可能对应完全不同的处理目的和合规含义。
+
+因此，我开始将 NLP 与安全评估结合起来，把问题拆分为几个可计算阶段：
+
+**文本理解 → 语义结构化 → 证据检索 → 安全或合规判断。**
+
+这也构成了我后来 AI for Security 研究中比较稳定的方法框架。
+
+## 用语义建模分析隐私文本中的模糊性
+
+[VASH](/zh/research/vash) 关注的是隐私政策中的语言模糊性。
+
+传统方法通常依赖模糊词表：如果政策中出现 “information”“service provider” 或类似宽泛表达，就认为文本存在模糊性。但这种基于词项匹配的方法很难理解上下文。例如，一个上位概念可能在后文被进一步解释，此时仅依据词语本身进行判断，会高估文本的模糊程度。
+
+为了解决这一问题，我将**语义表示学习与层次结构建模**引入隐私文本分析。
+
+具体而言，我们利用语义嵌入发现候选术语关系，再结合隐私政策中的定义性文本与 LLM 判断构建术语间的上下位关系，形成语义层次图。在此基础上，模型不再只判断“某个词是否模糊”，而是进一步判断该概念在当前语境中的抽象程度，以及上下文是否已经对其进行了具体化解释。
+
+同时，我们利用 Transformer 的上下文表示与注意力信息，对不同模糊表达在句子中的贡献进行加权，从而得到更加细粒度的模糊性评估。
+
+这个工作让我开始更系统地思考 AI 在安全文本理解中的作用：**模型真正有价值的地方，并不是替代关键词匹配，而是利用上下文语义恢复概念之间的关系。**
+
+## 用微调、检索与验证分析数据最小化
+
+在另一项一作工作 [How Far Are We from Automatically Identifying Violations of the Data Minimization Principle in Privacy Policies?](/zh/research/data-minimization) 中，我进一步研究如何利用大模型分析隐私政策中声明的数据实践是否满足数据最小化原则。
+
+相比语言模糊性，这一问题已经从“文本理解”进入“安全与合规判断”。
+
+我们首先将隐私政策中的数据实践表示为 **Action–Data–Purpose** 三元组，通过 LoRA 微调模型完成关键要素抽取，再结合本体与语义嵌入对不同表达进行标准化和组合。
+
+在此基础上，我没有直接让大模型基于整篇政策给出最终结论，而是引入稠密检索，从原文中定位与具体数据实践相关的证据，再分别验证数据处理行为、数据类型和处理目的之间的关系。
+
+因此，整个流程更接近：
+
+**大模型负责理解与抽取，检索负责定位证据，验证模块负责判断关系，专家负责处理高风险和边界样本。**
+
+这种设计的一个重要目的，是让错误能够被定位。如果最终判断出现问题，可以进一步区分错误来自信息抽取、语义组合、证据检索还是关系验证，而不是只观察一个无法解释的最终标签。
+
+数据最小化还具有明显的情境依赖性。同一种数据在不同业务场景中可能具有不同必要性。因此，我们进一步区分固有违规与情境违规，并从大规模隐私政策中挖掘候选的数据实践关系，再通过 LLM 与专家共同验证这些关系。
+
+这项工作让我逐渐形成一个明确的研究取向：**AI 可以显著降低安全分析中的信息获取和筛选成本，但涉及规范、情境和风险边界的判断，需要通过证据约束与人工审核提高可靠性。**
+
+## 从信息抽取走向证据驱动的合规判断
+
+随着研究推进，我开始更加关注一个问题：模型即使正确理解了某一段文本，也不意味着最终判断一定可靠。
+
+在隐私合规问题中，一项法规要求通常包含多个适用条件和披露义务。例如，一项要求是否适用，可能取决于主体类型、数据类别、处理方式或用户群体；而一个完整的披露义务，又可能需要从隐私政策、Cookie Policy、服务条款和帮助中心等多份文档中共同寻找证据。
+
+因此，我目前关注的隐私政策完整性研究进一步将问题建模为：
+
+**法规要求理解 → 适用性判断 → 多文档证据检索 → 原子义务验证 → 证据聚合。**
+
+这里，大模型不再只是一个分类器，而是承担法规拆解、查询生成、语义匹配和局部推理等任务；检索模块负责从长文档和多文档中获取候选证据；验证模块则检查每一项原子要求是否得到充分支持。
+
+我尤其关注检索失败与事实缺失之间的区别。如果系统没有找到相关证据，并不能立即得出“政策没有披露”的结论，因为也可能是检索器遗漏了相关段落。
+
+因此，我希望系统能够进一步判断：
+
+* 是否已经覆盖了要求中的所有子义务；
+* 是否还存在潜在但未检索到的证据；
+* 多份文档中的描述是否一致；
+* 当前证据是否足以支持一个确定结论；
+* 在证据不足时，模型是否应该暂缓判断。
+
+这使我的研究逐渐从单纯的 NLP 分类问题，转向 **retrieval、evidence verification、multi-document reasoning、calibration 与 abstention** 等更强调可靠性的方向。
+
+## 从隐私保护扩展到内容安全
+
+我对 AI for Security 的兴趣并不限于隐私政策。
+
+在内容安全场景中，核心问题同样是从非结构化内容中识别风险信号，并将模型判断与可验证证据联系起来。相比隐私政策，内容安全面对的数据更加开放，可能同时包含文本、图像、视频以及外部事件信息，对模型的语义理解、跨模态对齐和事实核查能力提出了更高要求。
+
+我参与的 ExDR 将这一思路进一步延伸到**多模态虚假新闻检测与内容可信性分析**。在这类问题中，仅依赖内容本身往往不足以判断真实性，还需要结合外部知识和证据，检查文本、图像以及现实事件之间是否一致。
+
+这与我在隐私合规中的研究形成了明显呼应：两者都不希望模型仅依据表面语义直接分类，而是强调**先获取证据，再基于证据完成判断**。
+
+从这个角度看，隐私保护与内容安全虽然对应不同应用场景，但在技术上共享许多关键问题：
+
+**信息抽取、语义表示、检索增强、证据验证、多模态理解与不确定性控制。**
+
+## 我理解的 AI for Security
+
+这些工作的共同点，是将 AI 用于过去高度依赖人工阅读和专家判断的安全任务。
+
+对我而言，AI for Security 并不只是将一个通用大模型直接应用到安全数据上，而是根据安全任务本身的结构，对模型能力进行重新组织。
+
+如果任务需要识别数据实践，我会先设计结构化表示，再训练模型完成要素抽取；如果判断依赖外部信息，我会引入检索而不是要求模型仅依赖参数知识；如果最终结论具有较高风险，则需要增加证据验证、置信度判断和人工审核。
+
+因此，我更关注的是如何将：
+
+**NLP / LLM + Retrieval + Structured Reasoning + Human Verification**
+
+组合成一个可靠的安全分析流程。
+
+这里既包含模型能力，也包含安全问题本身的建模。只有明确系统究竟需要识别什么对象、依据什么证据、满足什么条件，AI 的输出才具有实际意义。
+
+## 从模型判断走向可靠安全系统
+
+随着研究逐渐深入，我越来越关注 AI 安全分析系统的可靠性。
+
+模型能够生成一个看起来合理的解释，并不意味着解释忠实于原始证据；检索器返回了若干相关文本，也不意味着关键证据已经完整覆盖；模型给出了较高置信度，也不意味着它真的“知道”答案。
+
+因此，我目前更关注一些贯穿隐私保护和内容安全的问题：
+
+如何判断模型什么时候需要检索；
+
+如何确定应该检索什么信息；
+
+什么时候证据已经足够，可以停止检索；
+
+如何验证模型引用的证据是否真正支持结论；
+
+当证据不足、冲突或缺失时，系统是否能够主动拒绝判断。
+
+这些问题也让我进一步进入 RAG、事实核查和 Agent Safety 等方向。
+
+从访问控制中的规则验证，到隐私政策中的数据实践理解，再到多文档合规判断和内容安全分析，我的研究对象一直在变化，但关注点逐渐变得更加明确：**利用 AI 提升安全分析的自动化能力，同时通过结构化建模、证据检索和验证机制约束模型判断，使结果更加可靠、可解释和可审计。**
+
+这也是我继续研究[从检索到证据链：RAG 与事实核查](/zh/notes/rag-llm)以及 Agent Safety、Memory Privacy 和 Tool-use Security 的主要出发点。19:T2d86,在[隐私文本评估](/zh/notes/ai-for-security)中，文本理解只是判断的起点。对于隐私合规、内容安全和事实核查等任务，系统不仅需要理解文本，还需要回答几个更关键的问题：**相关证据在哪里，现有证据是否充分，这些证据能否支持当前结论，以及最终结论是否忠实于原始材料。**
+
+这也是 RAG 与事实核查在安全场景中的重要价值。相比直接让模型基于参数知识生成答案，更可靠的方式是将判断建立在可定位、可验证的外部证据之上，并进一步检查证据覆盖范围和支持关系。
+
+因此，这类系统真正需要解决的，并不只是“如何检索更多内容”，而是如何围绕一个判断建立完整的**证据链**。
+
+## 检索解决的是证据发现问题
+
+在隐私合规、内容安全和事实核查任务中，相关信息往往分散在大量文档中。
+
+例如，一项隐私披露可能同时出现在 Privacy Policy、Cookie Policy、Terms 和 Help Center 中；一则新闻的真实性判断可能需要结合正文、外部报道、事件背景以及图像信息。仅依赖单个段落或模型已有知识，很容易遗漏关键条件。
+
+RAG 首先承担的作用，是从大规模文本或多模态信息中缩小搜索空间。
+
+Sparse Retrieval 可以利用关键词和术语重合捕获明确线索；Dense Retrieval 通过语义表示发现表达不同但含义相关的内容；Reranker 则进一步重新评估候选与当前查询之间的相关性。
+
+但这里需要区分两个概念：
+
+**检索相关性不等于证据有效性。**
+
+一段文本与问题高度相关，并不意味着它能够支持某个具体结论。例如，某段政策提到了某类数据，只能说明这一主题存在，并不能直接证明该数据被用于特定目的，也不能说明所有必要披露已经完成。
+
+因此，Retriever 返回的本质上只是**候选证据**。
+
+## 从“找到文本”到“验证证据”
+
+证据驱动的安全分析需要在检索之后增加独立的验证过程。
+
+对于一个候选片段，至少需要检查：
+
+* 文本是否真正讨论当前判断对象；
+* 主体、行为、数据类型和适用条件是否对应；
+* 原文表达的是支持、否定还是条件性关系；
+* 是否存在限定词、例外或否定表达；
+* 当前文本能够支持结论的哪一部分。
+
+这实际上把问题从 semantic relevance 推进到了 **evidence entailment**。
+
+事实核查研究中常见的支持、反驳和证据不足等关系，在安全分析中同样重要。尤其对于合规判断而言，一段“看起来相关”的文本如果并未蕴含所需事实，就不能被当作有效依据。
+
+因此，一个更加合理的流程是：
+
+**Retrieval → Evidence Verification → Decision**
+
+而不是简单的：
+
+**Retrieval → Generation**
+
+前者将检索与判断解耦，使系统能够分别分析“有没有找到材料”和“这些材料是否足以支持结论”。
+
+## 一个结论往往需要多条证据
+
+很多安全判断无法由单个文本片段完成。
+
+一项合规要求可能同时包含主体、数据类型、处理目的、接收方、用户权利和适用条件等多个信息要素；一个内容安全判断也可能需要同时验证人物、时间、地点、事件和来源。
+
+这意味着证据验证往往是一个 **multi-evidence reasoning** 问题。
+
+事实核查中的多跳检索和跨文档证据组合提供了重要参考：一个复杂结论可以被拆分为若干更小的待验证事实，再分别寻找证据并进行组合。
+
+在合规评估中，也可以采用类似思路，将复杂要求拆分为更细粒度的 **atomic obligations**。每个原子义务对应明确的信息需求，再分别进行检索和验证。
+
+例如，一项要求如果同时涉及信息类别、处理目的和接收方，那么三个信息要素可能分别出现在不同位置。只有当必要子项均得到有效支持，并且这些证据处于一致的适用条件下，才能进一步讨论整体要求是否得到满足。
+
+因此，证据数量并不是关键，关键在于：
+
+**证据是否覆盖了结论所依赖的全部必要条件。**
+
+## 证据充分性是独立的问题
+
+即使已经找到若干有效证据，系统仍需要判断这些证据是否“足够”。
+
+这与传统检索任务存在明显差异。信息检索通常更关注是否返回相关结果，而安全评估还需要进一步判断：
+
+**是否还有影响最终判断的重要信息尚未找到。**
+
+Top-k 只能限定系统查看多少候选，无法证明搜索空间已经被充分覆盖。即使前几个结果都高度相关，也可能遗漏位于另一份文档、另一种表达方式或另一处上下文中的关键条件。
+
+因此，证据充分性需要结合整个任务结构进行判断，包括：
+
+* 当前判断包含哪些必要信息要素；
+* 哪些要素已经获得有效证据；
+* 哪些要素仍然缺失；
+* 是否存在尚未检查的文档或信息来源；
+* 新一轮检索是否仍在产生新的有效证据。
+
+这也是 RAG 从“检索增强生成”进一步走向**覆盖感知的证据获取**时需要解决的问题。
+
+## “没有找到”不等于“没有证据”
+
+在安全和合规任务中，一个尤其重要的区分是：
+
+**NOT_FOUND ≠ NOT_DISCLOSED**
+
+NOT_FOUND 表示当前检索过程没有返回相关证据，是对检索系统状态的描述。
+
+NOT_DISCLOSED 则是对被评估对象作出的结论，意味着在明确的文档范围和检查条件下，没有发现要求的信息。
+
+前者不能直接推出后者。
+
+检索失败可能来自查询构造不充分、Embedding 表示偏差、文档切分不合理、Top-k 过小，或者相关内容存在于另一份尚未检索的文档中。
+
+因此，在输出“缺失”“未披露”或类似结论之前，需要先对 retrieval coverage 进行诊断。
+
+更稳妥的系统应当能够区分：
+
+**没有证据、暂时没有找到证据，以及经过充分搜索后仍未发现证据。**
+
+这一区分对于隐私合规、内容审核和事实核查都非常重要，因为检索系统本身的失败不应被错误地解释为被评估对象存在问题。
+
+## Retriever、Verifier 与 Aggregator
+
+从系统结构上看，这类任务可以拆分为三个相对独立的角色。
+
+**Retriever** 负责尽可能发现潜在证据，并保留来源、位置和必要上下文。它回答的是“相关信息可能在哪里”。
+
+**Verifier** 负责判断候选证据与具体事实或要求之间的关系，包括是否支持、是否矛盾、是否存在条件限制，以及证据是否足够明确。
+
+**Aggregator** 负责将多个经过验证的局部结果重新组合起来，根据原始问题的逻辑关系判断整体证据是否充分。
+
+这种拆分的意义在于能够定位错误来源。
+
+如果最终判断不正确，可以进一步分析问题来自：
+
+**没有找到证据、错误接受了证据，还是错误聚合了证据。**
+
+相比直接观察一个最终标签，这种结构更适合需要可解释和可审计结果的安全任务。
+
+## 全局语境与局部证据
+
+证据也不能完全脱离上下文进行判断。
+
+在长文档或跨文档任务中，一个局部片段的含义可能依赖章节标题、前文定义、适用主体或后续限定条件。如果只截取几个句子进行检索和验证，容易产生语义漂移。
+
+因此，近年来的 RAG 工作开始更加关注**全局语境如何指导局部检索**。
+
+一种思路是通过摘要、层次化索引或全局语义表示建立文档级背景，再基于当前信息需求定位局部证据。另一种思路是根据模型当前判断中的信息缺口动态发起查询，只补充真正影响结论的外部信息。
+
+在内容安全和多模态事实核查中，这一点更加明显。模型不仅需要判断文本内部是否一致，还可能需要结合新闻报道、图像内容、事件背景和外部知识共同验证。
+
+因此，好的检索系统并不是简单扩大上下文窗口，而是需要明确：
+
+**当前到底缺少什么信息，以及哪类证据最可能解决这个信息缺口。**
+
+## 从固定检索走向 Adaptive RAG
+
+当检索成为推理过程的一部分后，一个自然的问题是：是否每个问题都需要相同数量、相同方式的检索？
+
+答案通常是否定的。
+
+一些问题可以直接由已有证据解决，而另一些问题可能需要继续搜索、改写查询或跨文档寻找补充信息。因此，Adaptive RAG 更关注四个连续决策：
+
+**When to retrieve
+What to retrieve
+Whether to continue
+When to stop**
+
+这些决策可以参考多种信号。
+
+例如，仍未覆盖的事实或义务能够直接反映信息缺口；Verifier 的不确定性可以提示当前证据关系是否明确；不同证据之间出现 contradiction 时，可能需要进一步搜索；多轮检索如果持续返回相同内容，则可能说明搜索逐渐趋于饱和。
+
+但单一信号通常并不足够可靠。
+
+模型高置信度并不意味着结论正确，Retriever 的高分结果也不意味着证据有效，搜索结果重复也可能意味着查询本身存在偏差。
+
+因此，更合理的停止条件往往需要综合考虑：
+
+**coverage、evidence quality、consistency 与 information gain。**
+
+## 结论也需要被验证
+
+证据链的最后一个环节，是检查模型最终生成的结论是否忠实于证据。
+
+这对应事实核查和 RAG 中常见的 faithfulness 问题。
+
+即使 Retriever 找到了正确材料，Verifier 也识别出了正确关系，生成模型仍可能在组织答案时加入原文中不存在的信息，扩大证据能够支持的范围，或者忽略关键限定条件。
+
+因此，可靠系统还需要检查：
+
+**Conclusion ↔ Evidence**
+
+之间的一致性。
+
+对于安全分析而言，这一点尤其重要。很多错误并不是模型完全“编造”了一个事实，而是在已有证据基础上进行了过度推断。例如，原文只支持“可能”“部分”“特定情况下”，生成结果却变成了一个无条件结论。
+
+因此，判断是否可靠，不仅要检查证据是否支持结论，还需要检查：
+
+**结论是否严格停留在证据允许的语义范围内。**
+
+## RAG 与事实核查在安全中的作用
+
+从隐私合规到内容安全，这些任务虽然具体目标不同，但共享一个非常相似的技术结构：
+
+**理解问题 → 明确信息需求 → 检索证据 → 验证证据 → 判断充分性 → 聚合证据 → 验证结论。**
+
+RAG 在这里承担的并不只是扩展模型知识，而是建立模型与外部事实之间的连接。
+
+事实核查则进一步提供了判断这一连接是否可靠的方法：证据是否相关、是否支持、是否完整，以及最终结论是否忠实于证据。
+
+因此，相比单纯追求更强的生成能力，更值得关注的是如何建立**可追溯的证据链**。
+
+对于隐私合规，这决定了一项披露判断是否有充分依据；对于内容安全，这决定了一条风险判断能否被外部事实验证；对于 Agent 和工具调用场景，则进一步关系到模型依据哪些信息采取行动，以及什么时候应该停止、继续检索或 abstain。
+
+从这个角度看，RAG 与事实核查并不仅是一组 NLP 技术，而是构建可靠 AI 安全分析系统的一种基础机制：**让判断建立在可定位、可验证且足够充分的证据之上，同时确保最终结论不超出证据本身能够支持的范围。**1a:T263d,我最早接触的安全问题，主要围绕访问控制展开：在给定主体、资源、操作和环境条件后，系统应当如何判断一次访问是否被允许。此后，我陆续参与访问控制策略迁移、策略挖掘、冲突检测、安全配置基线验证以及攻击图规则构建等工作。研究对象和技术方法不断变化，但其中始终存在一条相对稳定的主线：**如何把安全要求表示为可计算的规则，并基于这些规则对系统行为进行推理和验证。**
+
+随着研究逐渐深入，规则的来源也发生了变化。早期规则通常已经具有明确的结构；后来，我开始从安全规范、配置基线、漏洞描述等自然语言文档中识别和构建规则，并进一步关注如何直接以自然语言文档作为安全与合规判断的依据。这一变化也成为我后来进入 NLP、大模型与隐私合规研究的重要起点。
+
+## 从访问控制模型开始
+
+2019–2021 年，我参与[多源异构数据的使用授权与鉴权项目](/zh/projects/heterogeneous-data-authorization)，主要围绕细粒度数据授权、访问控制策略管理以及大数据平台集成开展工作，并参与 Hadoop 与 Huawei FusionInsight HD 环境下的系统实现。本科毕业设计同样围绕基于 CoAC 的 HDFS 细粒度访问控制展开。
+
+这一阶段的核心问题相对明确：**如何把现实中的授权需求转换为系统能够执行的访问控制策略。**
+
+访问控制本质上是在描述主体、资源、操作以及约束条件之间的关系。例如，一条授权需求可能规定某类用户只有在满足特定属性条件时才能读取某类数据。系统真正执行这条规则时，需要进一步明确主体和资源如何表示、属性之间如何匹配、多个条件如何组合，以及不同规则发生重叠时如何得到最终授权结果。
+
+因此，访问控制模型承担的并不仅是权限存储功能，更重要的是建立一套能够准确表达授权语义、并能够被系统执行和验证的形式化表示。
+
+这一阶段的工作让我建立了较早的安全建模意识：面对一个安全问题，首先需要明确参与对象、约束条件及其关系，再考虑如何将其转换为机器可处理的表示。
+
+## 从策略执行到策略分析
+
+随后，我的工作逐渐从单条访问控制策略的执行扩展到**策略集合本身的生成、迁移与验证**。
+
+在[华为合作项目](/zh/projects/industry-access-control)中，我参与了访问控制策略迁移、策略挖掘和策略冲突检测等工作。相比早期直接执行已有策略，这些问题更关注规则之间的关系，以及策略经过转换或重新生成后能否保持原有安全语义。
+
+### 策略迁移：保持不同表示之间的授权语义
+
+访问控制系统之间通常采用不同的策略模型和表达方式。策略迁移需要将源系统中的规则转换为目标系统能够执行的策略，同时尽可能保持原有授权语义。
+
+因此，迁移并不仅是规则格式转换。真正需要解决的问题是：**源策略中表达的主体、资源、权限和约束条件，在目标策略模型中是否仍然具有等价含义。**
+
+这类工作使我开始更加关注不同规则表示之间的语义对应关系。一个转换结果在语法上合法，并不意味着它在安全语义上仍然正确。
+
+### 策略挖掘：从已有授权关系中恢复规则
+
+策略挖掘解决的是另一个问题：当系统已经存在大量主体、资源和授权关系时，如何从这些实例中重新归纳出一组简洁、可解释的访问控制规则。
+
+在这一问题中，可以根据**已有授权关系的覆盖收益与规则复杂度**量化候选规则的价值，同时考虑规则的正确性和简洁性。通过设计满足次模性质的目标函数，使得新增规则带来的边际收益逐渐递减，从而能够采用高效的近似优化方法，在覆盖已有授权关系的同时控制策略集合的规模与复杂度。
+
+这一建模方式的意义在于，它将“策略是否好”从经验判断转化为一个可优化的问题：既希望规则覆盖足够多的有效授权，又希望得到的策略数量有限、结构清晰、便于管理员理解和维护。
+
+### 冲突检测：分析规则集合的整体行为
+
+当系统中同时存在大量策略时，单条规则正确并不能保证整个策略集合的行为一致。不同规则可能因为作用对象、条件或授权结果发生重叠，从而产生潜在冲突。
+
+策略冲突检测因此进一步关注：**多条规则共同作用时，是否会导致不一致或非预期的授权结果。**
+
+从策略迁移、策略挖掘到冲突检测，我的关注点逐渐从“如何执行一条规则”扩展到“如何分析一个规则集合的整体行为”。这也让我开始把安全问题更多地理解为规则建模、语义转换与约束推理问题。
+
+## 从结构化规则走向自然语言安全规范
+
+在后续的数据合规与安全配置相关工作中，我遇到了一个新的变化：很多安全规则并不是直接以机器可执行形式存在，而是首先出现在自然语言文档中。
+
+我参与了 CIS 安全配置基线解析与验证相关工作。CIS Benchmark 中的安全要求通常以自然语言描述，而系统实际状态则体现为具体配置项。要实现自动化验证，首先需要从基线文档中识别检查对象、配置位置、期望值以及相应约束，再将这些信息转换为结构化检查规则。
+
+因此，这类任务可以被理解为：
+
+**从自然语言安全文档中提取规则，再利用规则判断系统配置是否满足安全要求。**
+
+这里与早期访问控制工作的不同在于，规则不再预先给定，而需要先通过文本理解获得。
+
+这一变化使我开始关注自然语言理解对于安全验证的影响。自动验证结果不仅取决于后续检查逻辑是否正确，也取决于前一步是否准确理解了安全规范。如果规则抽取阶段遗漏了条件、对象或限定范围，后续验证即使完全正确，也可能是在回答另一个问题。
+
+因此，文本理解逐渐成为安全验证流程中的一个关键环节。
+
+## 从安全规范进一步走向漏洞描述
+
+类似的问题也存在于漏洞研究中。
+
+逻辑攻击图通常需要一组结构化的交互规则，用来描述攻击行为的前置条件和执行后产生的系统状态变化。基于这些规则，攻击图才能进一步推导多个漏洞和攻击步骤之间的关联关系，并形成多阶段攻击路径。
+
+然而，大量漏洞知识首先存在于 CVE、漏洞报告等自然语言描述中。这意味着攻击图构建之前同样存在一个关键步骤：
+
+**如何把自然语言漏洞描述转换为机器可推理的攻击规则。**
+
+我后来参与的 [INTERNIST](/zh/research/internist) 正是围绕这一问题展开。
+
+INTERNIST 基于网络安全状态构建了一套通用谓词体系，并将自然语言漏洞描述到逻辑攻击规则的构建过程拆分为四个阶段：
+
+**谓词抽取 → 参数关联 → 参数填充 → 因果组织。**
+
+其中，谓词用于表示攻击涉及的系统状态和行为；参数关联负责识别不同谓词之间共享的实体；参数填充补全具体的软件、主机、权限和网络状态等信息；最后再根据漏洞利用过程建立前置条件与后置结果之间的因果关系。
+
+相比直接让模型端到端生成一条复杂规则，这种分阶段建模能够显式约束规则的结构，并降低大模型一次完成复杂逻辑推理的难度。
+
+在模型训练方面，该方法进一步采用 LoRA 多任务微调，让多个规则构建子任务共享底层语义表示，并结合课程学习与 Focal Loss，使模型逐步学习复杂样本，同时加强对难例和低置信样本的学习。
+
+针对漏洞描述经常缺失必要背景信息的问题，INTERNIST 还引入外部知识补充产品功能和运行机制，并结合 Few-shot Prompting 缓解文本中的信息缺失与语义歧义。
+
+这项工作进一步强化了我对一个问题的认识：**自然语言安全文本与形式化安全推理之间，需要一个稳定、可验证的中间表示。**
+
+## 从“提取规则”到“基于文本判断”
+
+回顾这些工作，可以看到我的研究对象经历了一个逐渐变化的过程。
+
+早期的访问控制研究中，规则通常已经是结构化的，我关注的是如何表示、执行、迁移和验证这些规则。
+
+之后的 CIS 基线验证和漏洞规则构建中，规则开始隐藏在自然语言文档中，因此需要先完成：
+
+> 自然语言文档 → 结构化安全规则 → 系统判断
+
+而当我进一步进入隐私政策与数据合规研究后，问题又向前推进了一步。很多合规要求本身来自法律法规和监管文本，而被评估对象同样是隐私政策、服务条款等自然语言文档。这时研究问题变成：
+
+> 自然语言要求 → 自然语言证据 → 合规判断
+
+也就是说，研究对象逐渐从“从文本中抽取规则，再判断系统”，扩展为“直接基于多份自然语言文档建立证据关系并进行判断”。
+
+技术栈也由访问控制模型、规则优化和约束推理，逐渐扩展到信息抽取、文本表示、检索、大模型与事实核查。
+
+但贯穿这些工作的核心问题并没有发生根本变化：**如何把复杂的安全要求转化为明确的判断依据，并保证最终结论能够被追溯、解释和验证。**
+
+这也是我后来继续研究[隐私文本理解与合规评估](/zh/notes/ai-for-security)以及检索增强与事实核查问题的重要原因。1b:T1da0,## 我对 AI 的态度
+
+AI 是提升效率的工具，能够帮助我们减少重复性工作，把更多精力放在想法的实现和验证上。然而，当“实现”本身变得容易，真正拉开差距的，是人自身的**审美**。做产品需要好的审美，才能做出有价值、受欢迎的产品；做科研同样需要学术品位，才能做出简洁、有效、优美的工作。
+
+用好 AI 本身也是一种能力。我认为在使用 AI 之前应该先明确**究竟要解决什么问题**，**问题的边界在哪里**，**任务可以如何被解耦和划分**，以及**什么模型和工具适用于这项任务**等关键信息。在使用过程中，也要合理设计 **human-in-the-loop**，把人的判断放在问题定义、方案选择和结果验收等关键节点上。这样才能让 AI 的能力沿着正确的方向发挥，避免前面看起来进展很快，最后却花大量时间修正累积的错误。工具越强，越需要明确的目标和及时的纠偏。
 
 ## 我平时用哪些工具和模型
 
-我常用的工具是 Cursor（早期）、Codex（至今）、WorkBuddy（处理中文任务），主要使用的模型有 GPT-5.6 Sol、GPT-5.6 Terra、GPT-5.6 Luna、Claude-sonnet-5、Claude-opus-5、Deepseek-v4。
+在**论文实验**方面，考虑到本地计算资源和实验成本，我通常会选择 Qwen3-7B、Qwen3-14B 等中小规模开源模型作为实验对象。这类模型部署和微调成本较低，方便进行 LoRA/SFT、RAG、Agent 或不同方法之间的可控对比，也更适合分析模型内部状态。
 
-我会根据任务选择不同的模型和工作模式。推理能力较强的模型，比如 GPT-5.6 Sol，配合 Plan 模式，主要用于方案讨论、相关工作梳理、Prompt 设计和概念验证；代码能力较强的模型，比如 GPT-5.6 Sol、GPT-5.6 Terra、GPT-5.6 Luna，配合 Target 模式，主要用于工程实现。我还会体验新出的模型，如 GPT-6 Astra。
+在**科研探索**和**工程开发**，我早期主要使用 Cursor，目前更多使用 Codex 和 Claude Code；此外，我也会使用 WorkBuddy 处理一些**中文材料**和**办公类任务**。我比较常用的模型有 GPT-5.6 Sol、Terra、Luna，Claude Sonnet 5、Opus 5，以及 DeepSeek-V4。
 
-## 和 AI 一起做 RAGForge
+具体而言，我会关注各个模型厂商发布的技术报告，了解模型训练语料配比、训练方式；进而在完成具体任务时，根据任务类型、复杂度、可靠性要求、响应速度和成本进行模型选型。
+
+GPT-5.6 Sol 是我处理复杂任务时最常用的模型之一。OpenAI 将其定位为面向复杂专业工作的旗舰模型，在 coding、research、science、cybersecurity 和 knowledge work 等任务上重点强化；同时支持更高的 reasoning effort。因此，我一般会**把 Sol 用在问题定义、方案设计、复杂推理、研究梳理、Prompt 设计、代码架构以及较难的 debugging 上**。GPT-5.6 Terra 更偏向能力与成本之间的平衡。因此，当方案已经比较明确，需要**进行常规代码实现、模块修改、文档整理或者中等复杂度的分析时，我会倾向于使用 Terra**。
+
+Claude 系列里，**对于更复杂、开放度更高的编程任务，我会使用 Claude Opus 5**。Anthropic 的报告中特别强调了它在长链路 Agent、软件工程、专业知识工作和自我检查上的提升。这类特性使它比较适合大型代码库理解、复杂 debugging、长链路 Agent 任务、开放式分析，以及需要多轮检查和修改的任务。
+
+DeepSeek-V4 则是在超需要**兼顾效果、部署方式和成本的场景中的一个很有吸引力的选择**。
+
+
+## 我的工作流
+
+在工作流上，我通常会按照 “明确问题—讨论方案—并行实现—结果验证” 的顺序推进。
+1. **先明确问题和验收标准。**我会提供任务背景、已有材料、约束条件和预期输出。例如，科研任务要说明待验证的假设、已有基线和实验条件；工程任务要说明接口、运行环境和完成标准。把这些信息交代清楚并存储为全局性的约束文档，可以减少模型自行补全错误前提，以及后续反复沟通的成本。
+2. **用 Plan 模式讨论方案。**对于复杂任务，我会先让推理能力较强的模型比较可行路径，指出关键假设、风险和最小验证步骤，我再判断方向是否值得推进。
+3. **按明确目标小步实现。**方案确定后，再进入以目标为导向的执行阶段，将任务拆成可以单独检查的模块，先完成最小可运行版本，再逐步扩展。复杂部分使用能力更强的模型，常规部分交给成本更低的模型；相互独立的任务可以开多个窗口并行处理。这样能缩短等待时间，也方便定位错误。
+4. **用证据验证结果。**代码通过实际运行、测试和日志检查；科研结论回到原论文、数据和实验结果；文字材料则核查事实、引用及论证是否一致。关键内容可以再交给另一个模型独立审查，通常我会选择不同公司的模型承担审查的任务。
+
+### Case：和 AI 一起做 RAGForge
 
 RAGForge 是我在科研过程中逐步搭建的一套模块化 RAG 实验框架。最初是因为研究中需要频繁尝试和比较不同的 RAG 方案，通常涉及数据处理、文本切分、检索、重排、生成和评估等多个环节。如果每种方案都单独实现，不仅重复工作多，也很难保证实验配置和评测方式的一致性。因此，我把这些共性环节抽象出来，在 Codex 的协助下实现了一套组件可自由组合、能够快速搭建和比较不同 RAG pipeline 的实验框架。
 
@@ -599,7 +1055,7 @@ AI 在这个项目中主要作为我的开发协作者。我先确定模块的�
 
 *RAGForge 用户手册。*
 
-这个项目也让我形成了一套比较稳定的协作方式：我负责问题定义、架构设计、模块拆解、接口设计和结果验收，AI 负责加速实现、重构、测试和扩大代码检查范围。最终的技术决策和实验结论由我把关，避免代码越写越偏。19:T1313,将 NLP 技术应用于法律法规一直是我感兴趣的方向。隐私法包含大量关于角色、信息类型、传递目的和适用条件的规定，但这些抽象条款如何落实到具体场景中，仍然是一个具有挑战性的问题。
+这个项目也让我形成了一套比较稳定的协作方式：我负责问题定义、架构设计、模块拆解、接口设计和结果验收，AI 负责加速实现、重构、测试和扩大代码检查范围。最终的技术决策和实验结论由我把关，避免代码越写越偏。1c:T1313,将 NLP 技术应用于法律法规一直是我感兴趣的方向。隐私法包含大量关于角色、信息类型、传递目的和适用条件的规定，但这些抽象条款如何落实到具体场景中，仍然是一个具有挑战性的问题。
 
 [GoldCoin: Grounding Large Language Models in Privacy Laws via Contextual Integrity Theory](https://aclanthology.org/2024.emnlp-main.195/) 是一篇发表于 EMNLP 2024 的工作，并获得了 Outstanding Paper Award。它关注的核心问题是：**能否让大语言模型依据隐私法，对现实中的信息传递行为作出可解释的适用性与合规性判断？**
 
@@ -665,7 +1121,7 @@ GoldCoin 将最终判断拆成多个可学习的中间步骤，而不是要求�
 ## 这项工作的价值
 
 我之前和原作者交流时问过，这类工作会不会被认为只是针对特定场景解决了一个问题，在通用技术上的创新有限。作者提到“后续来看，CI 其实很适合用于智能体安全和 harness 设计”。我觉得这个思路很对、很形而上。
-GoldCoin 里 CI 本质上是在结构化描述一次信息交互：谁以什么角色，在什么条件和目的下，把什么信息传给谁。 这也可以迁移到 Agent 场景，用来描述 Agent 的身份、数据访问、工具调用、信息传递及其目的，并进一步判断某次交互在当前上下文中是否被允许。从这个角度看，GoldCoin 的价值除了数据合规性评估本身外，还提供了一种考虑了数据安全保护的 harness 设计思路。6:[["$","header",null,{"className":"page-intro","children":["$undefined",["$","h1",null,{"children":"让思考存档、可检索"}],["$","p",null,{"className":"lede","children":"论文解读、研究进展等记录。"}]]}],["$","div",null,{"className":"page-content","children":["$","$L16",null,{"locale":"zh","posts":[{"slug":"hallucination-to-truth","title":"从幻觉到真实：大语言模型事实核查与事实性评估综述","title_en":"Hallucination to Truth: A Review of Fact-Checking and Factuality Evaluation in Large Language Models","date":"2026-09-14","updated":"2026-09-14","category":"论文解读","tags":["事实核查","Fact-Checking","Factuality Evaluation","Hallucination","RAG","LLM"],"language":"zh","description":"围绕评价指标、幻觉缓解、数据集、模型优化与外部知识检索五个研究问题，梳理大语言模型事实核查与事实性评估的方法、挑战及可靠性要求。","cover":"","draft":false,"featured":false,"content":"$17","readingTime":23,"headings":[{"level":2,"text":"背景","id":"背景"},{"level":2,"text":"研究问题","id":"研究问题"},{"level":2,"text":"RQ1 【评价指标】目前使用哪些指标评价大模型事实核查系统？这些指标有什么不足？","id":"rq1-评价指标目前使用哪些指标评价大模型事实核查系统这些指标有什么不足"},{"level":3,"text":"**1. 传统分类指标**","id":"1-传统分类指标"},{"level":3,"text":"**2. 词汇和语义相似度指标**","id":"2-词汇和语义相似度指标"},{"level":3,"text":"**3. 事实性与证据支撑指标**","id":"3-事实性与证据支撑指标"},{"level":3,"text":"**4. 基于大模型的评价**","id":"4-基于大模型的评价"},{"level":3,"text":"**人工评价**","id":"人工评价"},{"level":3,"text":"核心结论","id":"核心结论"},{"level":2,"text":"RQ2 【幻觉缓解】幻觉如何影响大模型事实核查的可靠性？又可以通过哪些方法缓解？","id":"rq2-幻觉缓解幻觉如何影响大模型事实核查的可靠性又可以通过哪些方法缓解"},{"level":3,"text":"1. 什么是幻觉","id":"1-什么是幻觉"},{"level":3,"text":"2. 幻觉产生原因","id":"2-幻觉产生原因"},{"level":3,"text":"3. 为什么它对事实核查特别危险","id":"3-为什么它对事实核查特别危险"},{"level":3,"text":"4. 缓解幻觉的主要方法（五个技术路线）","id":"4-缓解幻觉的主要方法五个技术路线"},{"level":3,"text":"一些相关结论","id":"一些相关结论"},{"level":3,"text":"核心结论","id":"核心结论"},{"level":2,"text":"RQ3 【数据集】事实核查模型通常使用哪些数据集？数据集质量会带来什么影响？","id":"rq3-数据集事实核查模型通常使用哪些数据集数据集质量会带来什么影响"},{"level":2,"text":"RQ4 【模型优化】Prompt、微调和领域训练如何影响事实核查效果？","id":"rq4-模型优化prompt微调和领域训练如何影响事实核查效果"},{"level":3,"text":"1. 基础 Prompt 方法","id":"1-基础-prompt-方法"},{"level":3,"text":"2. 结合外部检索的 Prompt","id":"2-结合外部检索的-prompt"},{"level":3,"text":"3. 微调事实核查模型","id":"3-微调事实核查模型"},{"level":3,"text":"4. 领域训练与适配","id":"4-领域训练与适配"},{"level":2,"text":"RQ5 【外部知识检索】RAG 如何被整合到事实核查系统中？其优势和挑战是什么？","id":"rq5-外部知识检索rag-如何被整合到事实核查系统中其优势和挑战是什么"},{"level":3,"text":"1. RAG 为什么适合事实核查","id":"1-rag-为什么适合事实核查"},{"level":3,"text":"2. 基本的 RAG 事实核查流程","id":"2-基本的-rag-事实核查流程"},{"level":3,"text":"3. RAG 在事实核查中的几种使用方式","id":"3-rag-在事实核查中的几种使用方式"},{"level":3,"text":"4. RAG 的主要问题与解决思路","id":"4-rag-的主要问题与解决思路"},{"level":3,"text":"5. 论文列举的性能提升","id":"5-论文列举的性能提升"},{"level":3,"text":"6. 核心结论","id":"6-核心结论"}]},{"slug":"agent-memory-privacy","title":"智能体长期记忆中的隐私保护","title_en":"Privacy in Long-Term Agent Memory","date":"2026-09-12","updated":"2026-09-12","category":"research","tags":["Privacy","Agent","Memory"],"language":"zh","description":"智能体长期记忆中的隐私保护的相关笔记，待补充。","cover":"","draft":false,"featured":false,"content":"待补充","readingTime":1,"headings":[]},{"slug":"ai-for-security","title":"安全 × AI","title_en":"AI for Security","date":"2026-09-12","updated":"2026-09-12","category":"research","tags":["Privacy Compliance","Privacy Policy Understanding","Content Safety","Fact Checking"],"language":"zh","description":"安全 × AI的相关笔记，待补充。","cover":"","draft":false,"featured":false,"content":"待补充","readingTime":1,"headings":[]},{"slug":"interpretability-guided-retrieval","title":"可解释性引导的自适应检索","title_en":"Interpretability-Guided Adaptive Retrieval","date":"2026-09-12","updated":"2026-09-12","category":"research","tags":["RAG","Interpretability"],"language":"zh","description":"可解释性引导的自适应检索的相关笔记，待补充。","cover":"","draft":false,"featured":false,"content":"待补充","readingTime":1,"headings":[]},{"slug":"privacy-policy-completeness","title":"隐私政策完整性评估","title_en":"Privacy Policy Completeness Evaluation","date":"2026-09-12","updated":"2026-09-12","category":"research","tags":["Privacy Compliance","Privacy Policy"],"language":"zh","description":"隐私政策完整性评估的相关笔记，待补充。","cover":"","draft":false,"featured":false,"content":"待补充","readingTime":1,"headings":[]},{"slug":"rag-llm","title":"RAG 与大模型","title_en":"RAG & Large Language Models","date":"2026-09-12","updated":"2026-09-12","category":"research","tags":["Reliable Retrieval","Long-context Understanding","Adaptive Retrieval","Agent"],"language":"zh","description":"RAG 与大模型的相关笔记，待补充。","cover":"","draft":false,"featured":false,"content":"待补充","readingTime":1,"headings":[]},{"slug":"traditional-security","title":"传统网络安全","title_en":"Traditional Cybersecurity","date":"2026-09-12","updated":"2026-09-12","category":"research","tags":["Vulnerability","Attack Graph","Access Control","Security Policy"],"language":"zh","description":"传统网络安全的相关笔记，待补充。","cover":"","draft":false,"featured":false,"content":"待补充","readingTime":1,"headings":[]},{"slug":"working-with-ai","title":"我如何看待和使用 AI","title_en":"How I Think About and Use AI","date":"2026-09-11","updated":"2026-09-11","category":"实践与思考","tags":["AI","Human-in-the-loop"],"language":"zh","description":"我对 AI 的态度、平时怎么使用，以及和 Codex 一起搭建 RAGForge 的经历。","cover":"/assets/posts/working-with-ai/ragforge-templates.png","draft":false,"featured":true,"content":"$18","readingTime":5,"headings":[{"level":2,"text":"我对 AI 的态度","id":"我对-ai-的态度"},{"level":2,"text":"我平时用哪些工具和模型","id":"我平时用哪些工具和模型"},{"level":2,"text":"和 AI 一起做 RAGForge","id":"和-ai-一起做-ragforge"}]},{"slug":"goldcoin-contextual-integrity","title":"通过上下文完整性将 LLM 与隐私法联系起来","title_en":"Grounding LLMs in Privacy Laws via Contextual Integrity","date":"2026-09-10","updated":"2026-09-10","category":"论文解读","tags":["Privacy Law","Contextual Integrity","LLM","HIPAA"],"language":"zh","description":"解读 EMNLP 2024 杰出论文 GoldCoin：如何用上下文完整性弥合法律条款与真实信息传递场景之间的语义鸿沟。","cover":"/assets/posts/goldcoin/goldcoin-framework.png","draft":false,"featured":true,"content":"$19","readingTime":4,"headings":[{"level":2,"text":"关注的问题","id":"关注的问题"},{"level":2,"text":"为什么不能直接学习法律文本","id":"为什么不能直接学习法律文本"},{"level":2,"text":"上下文完整性：连接案例与法律的桥梁","id":"上下文完整性连接案例与法律的桥梁"},{"level":2,"text":"多步训练与判断流程","id":"多步训练与判断流程"},{"level":3,"text":"Applicability：判断法律是否适用","id":"applicability判断法律是否适用"},{"level":3,"text":"Compliance：判断信息传递是否合法","id":"compliance判断信息传递是否合法"},{"level":2,"text":"这项工作的价值","id":"这项工作的价值"}]},{"slug":"research-map","title":"一条研究主线：从数据合规到可靠检索","title_en":"One Research Thread: From Data Compliance to Reliable Retrieval","date":"2026-09-09","updated":"2026-09-09","category":"research","tags":["Privacy Compliance","RAG","Security × AI"],"language":"zh","description":"梳理访问控制、隐私合规、隐私政策理解与可靠检索之间的共同问题。","cover":"","draft":false,"featured":true,"content":"研究方向发生变化时，真正延续下来的往往不是某个模型或数据集，而是对问题的判断方式。\n\n## 共同的问题\n\n从访问控制到隐私政策合规，核心始终包含三个动作：理解规则、寻找证据、判断证据是否足以支持结论。RAG 与事实核查把这三个动作带到了大模型场景中。\n\n## 从规则到证据\n\n隐私法规不是一组可以直接匹配的关键词。适用条件、原子义务和文档中的具体披露需要被区分。类似地，可靠检索也不只是找到语义上相近的段落，而是判断证据是否真正回答了问题。\n\n## 仍在追问\n\n目前关注的一个问题是：当系统没有找到证据时，它能否区分“文档没有披露”和“检索过程遗漏了披露”？这个区分同时影响合规评估的可信度，也影响大模型何时继续检索、何时停止。\n\n> 这篇短文只勾勒研究之间的公开联系；更具体的研究起点、技术选择与反思将在作者确认后逐步补充。","readingTime":1,"headings":[{"level":2,"text":"共同的问题","id":"共同的问题"},{"level":2,"text":"从规则到证据","id":"从规则到证据"},{"level":2,"text":"仍在追问","id":"仍在追问"}]}]}]}]]
+GoldCoin 里 CI 本质上是在结构化描述一次信息交互：谁以什么角色，在什么条件和目的下，把什么信息传给谁。 这也可以迁移到 Agent 场景，用来描述 Agent 的身份、数据访问、工具调用、信息传递及其目的，并进一步判断某次交互在当前上下文中是否被允许。从这个角度看，GoldCoin 的价值除了数据合规性评估本身外，还提供了一种考虑了数据安全保护的 harness 设计思路。6:[["$","header",null,{"className":"page-intro","children":["$undefined",["$","h1",null,{"children":"让思考存档、可检索"}],["$","p",null,{"className":"lede","children":"论文解读、研究进展等记录。"}]]}],["$","div",null,{"className":"page-content","children":["$","$L16",null,{"locale":"zh","posts":[{"slug":"hallucination-to-truth","title":"从幻觉到真实：大语言模型事实核查与事实性评估综述","title_en":"Hallucination to Truth: A Review of Fact-Checking and Factuality Evaluation in Large Language Models","date":"2026-09-14","updated":"2026-09-14","category":"论文解读","tags":["事实核查","Fact-Checking","Factuality Evaluation","Hallucination","RAG","LLM"],"language":"zh","description":"围绕评价指标、幻觉缓解、数据集、模型优化与外部知识检索五个研究问题，梳理大语言模型事实核查与事实性评估的方法、挑战及可靠性要求。","cover":"","draft":false,"featured":false,"content":"$17","readingTime":23,"headings":[{"level":2,"text":"背景","id":"背景"},{"level":2,"text":"研究问题","id":"研究问题"},{"level":2,"text":"RQ1 【评价指标】目前使用哪些指标评价大模型事实核查系统？这些指标有什么不足？","id":"rq1-评价指标目前使用哪些指标评价大模型事实核查系统这些指标有什么不足"},{"level":3,"text":"**1. 传统分类指标**","id":"1-传统分类指标"},{"level":3,"text":"**2. 词汇和语义相似度指标**","id":"2-词汇和语义相似度指标"},{"level":3,"text":"**3. 事实性与证据支撑指标**","id":"3-事实性与证据支撑指标"},{"level":3,"text":"**4. 基于大模型的评价**","id":"4-基于大模型的评价"},{"level":3,"text":"**人工评价**","id":"人工评价"},{"level":3,"text":"核心结论","id":"核心结论"},{"level":2,"text":"RQ2 【幻觉缓解】幻觉如何影响大模型事实核查的可靠性？又可以通过哪些方法缓解？","id":"rq2-幻觉缓解幻觉如何影响大模型事实核查的可靠性又可以通过哪些方法缓解"},{"level":3,"text":"1. 什么是幻觉","id":"1-什么是幻觉"},{"level":3,"text":"2. 幻觉产生原因","id":"2-幻觉产生原因"},{"level":3,"text":"3. 为什么它对事实核查特别危险","id":"3-为什么它对事实核查特别危险"},{"level":3,"text":"4. 缓解幻觉的主要方法（五个技术路线）","id":"4-缓解幻觉的主要方法五个技术路线"},{"level":3,"text":"一些相关结论","id":"一些相关结论"},{"level":3,"text":"核心结论","id":"核心结论"},{"level":2,"text":"RQ3 【数据集】事实核查模型通常使用哪些数据集？数据集质量会带来什么影响？","id":"rq3-数据集事实核查模型通常使用哪些数据集数据集质量会带来什么影响"},{"level":2,"text":"RQ4 【模型优化】Prompt、微调和领域训练如何影响事实核查效果？","id":"rq4-模型优化prompt微调和领域训练如何影响事实核查效果"},{"level":3,"text":"1. 基础 Prompt 方法","id":"1-基础-prompt-方法"},{"level":3,"text":"2. 结合外部检索的 Prompt","id":"2-结合外部检索的-prompt"},{"level":3,"text":"3. 微调事实核查模型","id":"3-微调事实核查模型"},{"level":3,"text":"4. 领域训练与适配","id":"4-领域训练与适配"},{"level":2,"text":"RQ5 【外部知识检索】RAG 如何被整合到事实核查系统中？其优势和挑战是什么？","id":"rq5-外部知识检索rag-如何被整合到事实核查系统中其优势和挑战是什么"},{"level":3,"text":"1. RAG 为什么适合事实核查","id":"1-rag-为什么适合事实核查"},{"level":3,"text":"2. 基本的 RAG 事实核查流程","id":"2-基本的-rag-事实核查流程"},{"level":3,"text":"3. RAG 在事实核查中的几种使用方式","id":"3-rag-在事实核查中的几种使用方式"},{"level":3,"text":"4. RAG 的主要问题与解决思路","id":"4-rag-的主要问题与解决思路"},{"level":3,"text":"5. 论文列举的性能提升","id":"5-论文列举的性能提升"},{"level":3,"text":"6. 核心结论","id":"6-核心结论"}]},{"slug":"agent-memory-privacy","title":"智能体长期记忆中的隐私保护","title_en":"Privacy in Long-Term Agent Memory","date":"2026-09-12","updated":"2026-09-12","category":"research","tags":["Privacy","Agent","Memory"],"language":"zh","description":"智能体长期记忆中的隐私保护的相关笔记，待补充。","cover":"","draft":false,"featured":false,"content":"待补充","readingTime":1,"headings":[]},{"slug":"ai-for-security","title":"从隐私文本理解到评估","title_en":"AI for Security: From Privacy Text Understanding to Reliable Decisions","date":"2026-09-12","updated":"2026-09-21","category":"research","tags":["Privacy Compliance","Semantic Hierarchy","Data Minimization","LoRA","Evidence Verification"],"language":"zh","description":"从隐私政策的语义与模糊性，到数据实践抽取、情境化合规判断和披露覆盖：我为什么逐渐把证据与判断边界放到评估中心。","cover":"","draft":false,"featured":false,"content":"$18","readingTime":8,"headings":[{"level":2,"text":"从隐私政策理解开始","id":"从隐私政策理解开始"},{"level":2,"text":"用语义建模分析隐私文本中的模糊性","id":"用语义建模分析隐私文本中的模糊性"},{"level":2,"text":"用微调、检索与验证分析数据最小化","id":"用微调检索与验证分析数据最小化"},{"level":2,"text":"从信息抽取走向证据驱动的合规判断","id":"从信息抽取走向证据驱动的合规判断"},{"level":2,"text":"从隐私保护扩展到内容安全","id":"从隐私保护扩展到内容安全"},{"level":2,"text":"我理解的 AI for Security","id":"我理解的-ai-for-security"},{"level":2,"text":"从模型判断走向可靠安全系统","id":"从模型判断走向可靠安全系统"}]},{"slug":"interpretability-guided-retrieval","title":"可解释性引导的自适应检索","title_en":"Interpretability-Guided Adaptive Retrieval","date":"2026-09-12","updated":"2026-09-12","category":"research","tags":["RAG","Interpretability"],"language":"zh","description":"可解释性引导的自适应检索的相关笔记，待补充。","cover":"","draft":false,"featured":false,"content":"待补充","readingTime":1,"headings":[]},{"slug":"privacy-policy-completeness","title":"隐私政策完整性评估","title_en":"Privacy Policy Completeness Evaluation","date":"2026-09-12","updated":"2026-09-12","category":"research","tags":["Privacy Compliance","Privacy Policy"],"language":"zh","description":"隐私政策完整性评估的相关笔记，待补充。","cover":"","draft":false,"featured":false,"content":"待补充","readingTime":1,"headings":[]},{"slug":"rag-llm","title":"从检索到证据链：RAG 与事实核查","title_en":"From Retrieval to Evidence Chains: RAG and Fact Checking","date":"2026-09-12","updated":"2026-09-21","category":"research","tags":["RAG","Fact Checking","Adaptive Retrieval","Evidence Coverage","Agent"],"language":"zh","description":"从隐私文档中的分散证据出发，思考检索、验证与聚合如何协作，以及模型何时继续搜索、停止或暂缓判断。","cover":"","draft":false,"featured":false,"content":"$19","readingTime":9,"headings":[{"level":2,"text":"检索解决的是证据发现问题","id":"检索解决的是证据发现问题"},{"level":2,"text":"从“找到文本”到“验证证据”","id":"从找到文本到验证证据"},{"level":2,"text":"一个结论往往需要多条证据","id":"一个结论往往需要多条证据"},{"level":2,"text":"证据充分性是独立的问题","id":"证据充分性是独立的问题"},{"level":2,"text":"“没有找到”不等于“没有证据”","id":"没有找到不等于没有证据"},{"level":2,"text":"Retriever、Verifier 与 Aggregator","id":"retrieververifier-与-aggregator"},{"level":2,"text":"全局语境与局部证据","id":"全局语境与局部证据"},{"level":2,"text":"从固定检索走向 Adaptive RAG","id":"从固定检索走向-adaptive-rag"},{"level":2,"text":"结论也需要被验证","id":"结论也需要被验证"},{"level":2,"text":"RAG 与事实核查在安全中的作用","id":"rag-与事实核查在安全中的作用"}]},{"slug":"traditional-security","title":"从安全策略到行为验证","title_en":"From Security Policies to Behavioral Verification","date":"2026-09-12","updated":"2026-09-21","category":"research","tags":["Access Control","ABAC","Security Policy","Policy Migration","Attack Graph"],"language":"zh","description":"从访问控制、CIS 安全基线与策略迁移，到攻击图中的行为关系：我如何开始把安全要求转化为可计算、可检查的问题。","cover":"","draft":false,"featured":false,"content":"$1a","readingTime":7,"headings":[{"level":2,"text":"从访问控制模型开始","id":"从访问控制模型开始"},{"level":2,"text":"从策略执行到策略分析","id":"从策略执行到策略分析"},{"level":3,"text":"策略迁移：保持不同表示之间的授权语义","id":"策略迁移保持不同表示之间的授权语义"},{"level":3,"text":"策略挖掘：从已有授权关系中恢复规则","id":"策略挖掘从已有授权关系中恢复规则"},{"level":3,"text":"冲突检测：分析规则集合的整体行为","id":"冲突检测分析规则集合的整体行为"},{"level":2,"text":"从结构化规则走向自然语言安全规范","id":"从结构化规则走向自然语言安全规范"},{"level":2,"text":"从安全规范进一步走向漏洞描述","id":"从安全规范进一步走向漏洞描述"},{"level":2,"text":"从“提取规则”到“基于文本判断”","id":"从提取规则到基于文本判断"}]},{"slug":"working-with-ai","title":"我如何看待和使用 AI","title_en":"How I Think About and Use AI","date":"2026-09-11","updated":"2026-09-11","category":"实践与思考","tags":["AI","Human-in-the-loop"],"language":"zh","description":"我对 AI 的态度、平时怎么使用，以及和 Codex 一起搭建 RAGForge 的经历。","cover":"/assets/posts/working-with-ai/ragforge-templates.png","draft":false,"featured":true,"content":"$1b","readingTime":7,"headings":[{"level":2,"text":"我对 AI 的态度","id":"我对-ai-的态度"},{"level":2,"text":"我平时用哪些工具和模型","id":"我平时用哪些工具和模型"},{"level":2,"text":"我的工作流","id":"我的工作流"},{"level":3,"text":"Case：和 AI 一起做 RAGForge","id":"case和-ai-一起做-ragforge"}]},{"slug":"goldcoin-contextual-integrity","title":"通过上下文完整性将 LLM 与隐私法联系起来","title_en":"Grounding LLMs in Privacy Laws via Contextual Integrity","date":"2026-09-10","updated":"2026-09-10","category":"论文解读","tags":["Privacy Law","Contextual Integrity","LLM","HIPAA"],"language":"zh","description":"解读 EMNLP 2024 杰出论文 GoldCoin：如何用上下文完整性弥合法律条款与真实信息传递场景之间的语义鸿沟。","cover":"/assets/posts/goldcoin/goldcoin-framework.png","draft":false,"featured":true,"content":"$1c","readingTime":4,"headings":[{"level":2,"text":"关注的问题","id":"关注的问题"},{"level":2,"text":"为什么不能直接学习法律文本","id":"为什么不能直接学习法律文本"},{"level":2,"text":"上下文完整性：连接案例与法律的桥梁","id":"上下文完整性连接案例与法律的桥梁"},{"level":2,"text":"多步训练与判断流程","id":"多步训练与判断流程"},{"level":3,"text":"Applicability：判断法律是否适用","id":"applicability判断法律是否适用"},{"level":3,"text":"Compliance：判断信息传递是否合法","id":"compliance判断信息传递是否合法"},{"level":2,"text":"这项工作的价值","id":"这项工作的价值"}]},{"slug":"research-map","title":"一条研究主线：从数据合规到可靠检索","title_en":"One Research Thread: From Data Compliance to Reliable Retrieval","date":"2026-09-09","updated":"2026-09-09","category":"research","tags":["Privacy Compliance","RAG","Security × AI"],"language":"zh","description":"梳理访问控制、隐私合规、隐私政策理解与可靠检索之间的共同问题。","cover":"","draft":false,"featured":true,"content":"研究方向发生变化时，真正延续下来的往往不是某个模型或数据集，而是对问题的判断方式。\n\n## 共同的问题\n\n从访问控制到隐私政策合规，核心始终包含三个动作：理解规则、寻找证据、判断证据是否足以支持结论。RAG 与事实核查把这三个动作带到了大模型场景中。\n\n## 从规则到证据\n\n隐私法规不是一组可以直接匹配的关键词。适用条件、原子义务和文档中的具体披露需要被区分。类似地，可靠检索也不只是找到语义上相近的段落，而是判断证据是否真正回答了问题。\n\n## 仍在追问\n\n目前关注的一个问题是：当系统没有找到证据时，它能否区分“文档没有披露”和“检索过程遗漏了披露”？这个区分同时影响合规评估的可信度，也影响大模型何时继续检索、何时停止。\n\n> 这篇短文只勾勒研究之间的公开联系；更具体的研究起点、技术选择与反思将在作者确认后逐步补充。","readingTime":1,"headings":[{"level":2,"text":"共同的问题","id":"共同的问题"},{"level":2,"text":"从规则到证据","id":"从规则到证据"},{"level":2,"text":"仍在追问","id":"仍在追问"}]}]}]}]]
 b:null
 f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 a:null
